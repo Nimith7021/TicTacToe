@@ -16,6 +16,11 @@ namespace TicTacToe
 
                 Console.WriteLine("PLAYER 1 TURN");
                 int playerChoice = Convert.ToInt32(Console.ReadLine());
+                if(playerChoice<0 || playerChoice > 9)
+                {
+                    Console.WriteLine("Invalid Choice Enter Again");
+                    continue;
+                }
                 if (board[playerChoice]!='X' && board[playerChoice] != 'O')
                 {
                     board[playerChoice] = 'X';
@@ -42,6 +47,11 @@ namespace TicTacToe
                 Retry:
                 Console.WriteLine("PLAYER 2 TURN");
                 playerChoice = Convert.ToInt32(Console.ReadLine());
+                if (playerChoice < 0 || playerChoice > 9)
+                {
+                    Console.WriteLine("Invalid Choice Enter Again");
+                    continue;
+                }
                 if (board[playerChoice] != 'X' && board[playerChoice] != 'O')
                 {
                     board[playerChoice] = 'O';

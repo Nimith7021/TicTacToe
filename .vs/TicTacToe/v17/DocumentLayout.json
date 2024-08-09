@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\TicTacToe\\",
+  "WorkspaceRootPath": "D:\\C# Training github\\TicTacToe\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{302A9BCA-B2D1-46B4-93F5-0172EC1FC187}|TicTacToe.csproj|c:\\users\\nimith.shetty\\desktop\\aproscm\\tictactoe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{302A9BCA-B2D1-46B4-93F5-0172EC1FC187}|TicTacToe.csproj|d:\\c# training github\\tictactoe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{302A9BCA-B2D1-46B4-93F5-0172EC1FC187}|TicTacToe.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\TicTacToe\\Program.cs",
+              "DocumentMoniker": "D:\\C# Training github\\TicTacToe\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\TicTacToe\\Program.cs",
+              "ToolTip": "D:\\C# Training github\\TicTacToe\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFUAAABFAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADUAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-28T12:31:07.891Z",
               "EditorCaption": ""

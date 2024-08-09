@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\TicTacToe\\TicTacToe.csproj",
+      "projectUniqueName": "D:\\C# Training github\\TicTacToe\\TicTacToe.csproj",
       "projectName": "TicTacToe",
-      "projectPath": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\TicTacToe\\TicTacToe.csproj",
+      "projectPath": "D:\\C# Training github\\TicTacToe\\TicTacToe.csproj",
       "packagesPath": "C:\\Users\\nimith.shetty\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\TicTacToe\\obj\\",
+      "outputPath": "D:\\C# Training github\\TicTacToe\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\nimith.shetty\\AppData\\Roaming\\NuGet\\NuGet.Config",
